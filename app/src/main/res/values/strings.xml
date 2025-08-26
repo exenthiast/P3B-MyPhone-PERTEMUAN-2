@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="phone_name">Iphone 16 Pro Max</string>
+    <string name="phone_price">$218</string>
+    <string name="phone_description">A3296 (International); A3084 (USA); A3295 (Middle East, Canada, Mexico); A3297 (China, Hong Kong)</string>
+    <string name="memory">256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM</string>
+    <string name="camera">48 MP, f/1.8, 24mm (wide), 1/1.28", 1.22µm, dual pixel PDAF, sensor-shift OIS
+12 MP, f/2.8, 120mm (periscope telephoto), 1/3.06", 1.12µm, dual pixel PDAF, 3D sensor‑shift OIS, 5x optical zoom
+48 MP, f/2.2, 13mm (ultrawide), 1/2.55", 0.7µm, PDAF
+TOF 3D LiDAR scanner (depth)</string>
+    <string name="bookmark">Bookmark</string>
+</resources>
